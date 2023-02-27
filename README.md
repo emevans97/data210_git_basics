@@ -12,3 +12,5 @@ git commit -m "message" - package the changes we've made ready to push to GitHub
 git push -u origin main - push our changes to our repository (with specified branch)
 
 Repository - a database which holds / changes of our files
+
+Hello this change was made on GitHub!
