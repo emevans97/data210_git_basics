@@ -14,3 +14,4 @@ git push -u origin main - push our changes to our repository (with specified bra
 Repository - a database which holds / changes of our files
 
 Hello this change was made on GitHub!
+Hello this change was made on the dev branch only!
