@@ -26,6 +26,6 @@
 ## New learnings
 Absolute file paths start from root, not home!
 
-- rf flag means force action
+rf flag means force action
 
 grep to search for things, e.g. pip freeze | grep pandas
